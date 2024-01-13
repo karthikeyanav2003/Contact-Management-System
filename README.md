@@ -1,7 +1,7 @@
 # PRODIGY_SD_03
 The Contact Management System is a desktop application developed using the Tkinter library in Python for the graphical user interface and SQLite for the database management. The system allows users to manage and organize their contacts efficiently. It includes functionalities for adding new contacts, updating existing ones, and deleting records. The user interface is designed with various frames and widgets, enabling easy interaction.
 
-Tools Used:
+#Tools Used:
 
 Tkinter Library: Used for creating the graphical user interface (GUI) of the application, providing buttons, labels, entry fields, and windows for user interaction.
 
